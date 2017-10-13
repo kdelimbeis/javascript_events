@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="events.css">
+
+</head>
+
+<body>
+
+<form name="myForm" action=""
+	onsubmit="return validateForm()" method="post">
+	Name:<br>
+	<input type="text" name="name"><br>
+	User password:<br>
+	<input type="password" name="psw"><br>
+	E-mail:<br>
+	<input type="text" name="mail"><br>
+	
+	<button id="button">Submit</button>
+	<input type="reset" value="Reset">
+</form>
+
+<h1 id="demo3"></h1>
+
+<div>
+	<h1 id="demo2"></h1>
+	<p>Press a key on the keyboard in the input field.</p>
+	<input type="text" size="40" onkeydown="myKey(event)">
+</div>
+
+<div class="argue">
+	<div class="genius">
+		<button id="buttonA">CLICK</button>
+	</div>
+
+	<p id="demo"></p>	
+
+	<div class="idiot">
+		<button id="buttonB">CLICK</button>
+	</div>
+</div>
+
+
+<div onmouseover = hover() class="hover">Don't hover over me</div>
+
+<script text="text/javascript" src="events.js"></script>
+
+</body>
+</html>

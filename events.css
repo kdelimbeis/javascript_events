@@ -1,0 +1,38 @@
+.argue{
+	display: inline-block;
+}
+
+.genius {
+	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJzZb3OM5Jd3cHUWB9ROqjyCMHR1x198uSajPzWaf2r6UUhmqOIg");
+	background-size: 100% 100%;
+	height: 300px;
+	width: 300px;
+	float: left;
+}
+
+.idiot {
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2JSqcNDPotB4WvOeBdaJBwM23n_PeYRslZ0TtL-q51RkKSa7v");
+	background-size: 100% 100%;
+	height: 300px;
+	width: 300px;
+	float: right;
+}
+
+#buttonA {
+	width: 100px;
+	height: 100px;
+}
+#buttonB {
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+.hover {
+	background-color: red;
+	background-size: 100% 100%;
+	height: 150px;
+	width: 150px;
+	float: left;
+	font-size: 40px;
+}
