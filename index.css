@@ -3,7 +3,7 @@
 }
 
 .genius {
-	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJzZb3OM5Jd3cHUWB9ROqjyCMHR1x198uSajPzWaf2r6UUhmqOIg");
+	background-image: url("einstein.jpeg");
 	background-size: 100% 100%;
 	height: 300px;
 	width: 300px;
@@ -11,7 +11,7 @@
 }
 
 .idiot {
-	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2JSqcNDPotB4WvOeBdaJBwM23n_PeYRslZ0TtL-q51RkKSa7v");
+	background-image: url("jimcarrey.jpeg");
 	background-size: 100% 100%;
 	height: 300px;
 	width: 300px;
